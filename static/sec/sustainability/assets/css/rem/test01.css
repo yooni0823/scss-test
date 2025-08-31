@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+.wrap{
+    width:100%;
+    max-width:1440px;
+    margin:auto;
+}
+
+.header{
+    width:100%;
+    height:3.5714rem; /* 50px */
+    line-height:3.5714rem; /* 50px */
+    background:#eee;
+    font-weight:bold;
+    font-size:1.14285rem; /* 16px*/
+    text-align:center;
+}
+
+.footer{
+    height:50px;
+    line-height:50px;
+    background:#eee;
+    font-weight:bold;
+    font-size:16px;
+    text-align:center;
+}
